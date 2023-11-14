@@ -19,10 +19,3 @@ To use this template, you need to have Node.js and npm installed on your system.
 ## How to customize this template
 
 You can customize this template by modifying the `webpack.config.js` file in the project folder. This file contains the configuration options for webpack. You can change the entry points, output options, loaders, plugins, and other settings according to your needs. You can also add new loaders and plugins to support different types of resources or assets. For more information, please refer to the [webpack documentation].
-
-Source
-(1) Build Performance | webpack. https://webpack.js.org/guides/build-performance/.
-(2) Production | webpack. https://webpack.js.org/guides/production/.
-(3) Optimizing the build process using Webpack - OpenReplay. https://blog.openreplay.com/optimizing-the-build-process-with-webpack/.
-(4) GitHub - xiaoyann/webpack-best-practice: Webpack 最佳实践，理解每个关键点 .... https://github.com/xiaoyann/webpack-best-practice.
-(5) Introduction to webpack: Entry, Output, Loaders, and Plugins - Medium. https://medium.com/swlh/how-make-better-optimization-with-webpack-and-splitchunk-in-the-production-96bd273c56ca.
