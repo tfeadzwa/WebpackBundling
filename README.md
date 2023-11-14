@@ -1,8 +1,6 @@
 # WebpackBundling
 Webpack Vanilla JS Starter: A webpack template for vanilla JavaScript projects. Learn how to bundle, optimize, and hot reload your code
 
-Here is a possible readme of the recommendations of what to include in the project when bundling with webpack:
-
 # Webpack Project Template
 
 This is a simple and easy-to-use template for building and bundling web projects with webpack. Webpack is a module bundler that can transform, bundle, or package just about any resource or asset. This template follows some of the best practices for optimizing webpack builds, such as:
@@ -24,10 +22,3 @@ To use this template, you need to have Node.js and npm installed on your system.
 ## How to customize this template
 
 You can customize this template by modifying the `webpack.config.js` file in the project folder. This file contains the configuration options for webpack. You can change the entry points, output options, loaders, plugins, and other settings according to your needs. You can also add new loaders and plugins to support different types of resources or assets. For more information, please refer to the [webpack documentation].
-
-Source: Conversation with Bing, 11/14/2023
-(1) Build Performance | webpack. https://webpack.js.org/guides/build-performance/.
-(2) Production | webpack. https://webpack.js.org/guides/production/.
-(3) Optimizing the build process using Webpack - OpenReplay. https://blog.openreplay.com/optimizing-the-build-process-with-webpack/.
-(4) GitHub - xiaoyann/webpack-best-practice: Webpack 最佳实践，理解每个关键点 .... https://github.com/xiaoyann/webpack-best-practice.
-(5) Introduction to webpack: Entry, Output, Loaders, and Plugins - Medium. https://medium.com/swlh/how-make-better-optimization-with-webpack-and-splitchunk-in-the-production-96bd273c56ca.
