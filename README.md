@@ -18,4 +18,4 @@ To use this template, you need to have Node.js and npm installed on your system.
 
 ## How to customize this template
 
-You can customize this template by modifying the `webpack.config.js` file in the project folder. This file contains the configuration options for webpack. You can change the entry points, output options, loaders, plugins, and other settings according to your needs. You can also add new loaders and plugins to support different types of resources or assets. For more information, please refer to the [webpack documentation].
+You can customize this template by modifying the `webpack.config.js` file in the project folder. This file contains the configuration options for webpack. You can change the entry points, output options, loaders, plugins, and other settings according to your needs. You can also add new loaders and plugins to support different types of resources or assets. For more information, please refer to the [webpack documentation](https://webpack.js.org/).
